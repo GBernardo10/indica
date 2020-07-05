@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "lib": ["es7"],
+    "target": "ES2017",
+    "rootDir": "./src",
+    "esModuleInterop": true,
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "outDir": "./dist",
+    "allowJs": true,
+    "removeComments": true,
+    "resolveJsonModule": true,
+    "baseUrl": "./",
+    "noImplicitAny": false,
+    "declarationMap": true,
+    "inlineSources": true,
+    "sourceMap": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "declaration": true,
+    "skipLibCheck": true
+  }
+}
